@@ -1,7 +1,2 @@
----
----
-
-@import "{{ site.theme }}";
-
 theme: jekyll-theme-hacker
 title: Nick Adams - Computer Science
