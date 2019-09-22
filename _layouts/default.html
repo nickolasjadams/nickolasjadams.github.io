@@ -5,6 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      body {
+        background-size: cover !important;
+      }
 
 {% seo %}
   </head>
@@ -48,7 +52,7 @@
   <script>
   console.log("OH!  You must be a pretty l33t hacker to be seeing this!  While your here, plz don't hack this web page by running `hack()` in the console.");
   function hack() {
-    document.body.style.backgroundImage = "url('https://media.giphy.com/media/S4HKH9KgRGMdq/giphy.gif') !important";
+    document.body.style.backgroundImage = "url(https://media.giphy.com/media/S4HKH9KgRGMdq/giphy.gif)" !important;
     console.log("OOOOOOOOOHHH NOOOOOOOOOOOOOOO!!");
   }
   </script>
