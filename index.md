@@ -1,8 +1,8 @@
 
 
 
- - [ ] Make this page your own
- - [ ] Hand in the assignment
+ - [x] Make this page your own
+ - [x] Hand in the assignment
 
 
 ## Welcome
