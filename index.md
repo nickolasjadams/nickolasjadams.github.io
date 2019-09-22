@@ -1,20 +1,15 @@
+
+
+
+ - [ ] Make this page your own
+ - [ ] Hand in the assignment
+
+
 ## Welcome
+This is a place for me to put My BSU CS related projects.  
+The theme design also makes it look like a nice place to put some command line tutorials
 
-### Markdown
+I'm going to test whether this markdown conversion engines will convert HTML as well (Hugo does).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check out these <a href="cool-commands.html">Cool Commands!</a>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
