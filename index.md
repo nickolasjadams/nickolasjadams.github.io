@@ -13,4 +13,4 @@ I'm going to test whether this markdown conversion engines will convert HTML as 
 
 Check out these <a href="cool-commands">Cool Commands</a> and become a l33t haxor
 
-https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif
+<img src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif">
